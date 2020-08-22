@@ -1,0 +1,2 @@
+sfgjljhnhj
+git diff compares working directory and staging area
